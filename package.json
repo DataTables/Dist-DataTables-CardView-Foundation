@@ -1,0 +1,35 @@
+{
+    "name": "datatables.net-cardview-zf",
+    "description": "CardView for DataTables with styling for [Foundation](https://get.foundation/)",
+    "main": "js/cardView.foundation.js",
+    "module": "js/cardView.foundation.mjs",
+    "style": "css/cardView.foundation.css",
+    "types": "./types/cardView.foundation.d.ts",
+    "version": "1.0.0-beta.1",
+    "files": [
+        "css/**/*.css",
+        "js/**/*.js",
+        "js/**/*.mjs",
+        "types/**/*.d.ts"
+    ],
+    "keywords": [
+        "Cards",
+        "Responsive",
+        "Foundation",
+        "Datatables",
+        "table",
+        "filter",
+        "sort"
+    ],
+    "dependencies": {
+        "datatables.net-cardview": "1.0.0-beta.1",
+        "datatables.net-zf": "3.0.0-0"
+    },
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "SEE LICENSE IN License.txt"
+}

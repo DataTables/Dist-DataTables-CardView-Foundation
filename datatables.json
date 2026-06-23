@@ -1,0 +1,18 @@
+{
+    "js": [
+        "js/cardView.foundation.js",
+        "js/cardView.foundation.min.js",
+        "js/cardView.foundation.min.mjs",
+        "js/cardView.foundation.mjs"
+    ],
+    "css": [
+        "css/cardView.foundation.css",
+        "css/cardView.foundation.min.css"
+    ],
+    "types": [
+        "types/cardView.foundation.d.ts"
+    ],
+    "src-repo": "http://github.com/DataTables/CardView",
+    "last-tag": "null",
+    "last-sync": ""
+}

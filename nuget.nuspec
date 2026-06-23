@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <version>1.0.0-beta.1</version>
+        <id>datatables.net-cardview-zf</id>
+        <description>This is CardView for DataTables with styling for [Foundation](https://get.foundation/)</description>
+        <authors>SpryMedia Ltd</authors>
+        <projectUrl>https://datatables.net</projectUrl>
+        <license type="file">License.txt</license>
+        <tags>Cards  Responsive  Foundation  Datatables table</tags>
+        <dependencies>
+            <dependency id="datatables.net-cardview" version="1.0.0-beta.1"/>
+            <dependency id="datatables.net-zf" version="3.0.0-0"/>
+        </dependencies>
+        <contentFiles>
+            <files include="**/*" buildAction="Content"/>
+        </contentFiles>
+        <readme>Readme.md</readme>
+    </metadata>
+    <files>
+        <file src="Readme.md" target=""/>
+        <file src="js/cardView.foundation.js" target="content\Scripts"/>
+        <file src="js/cardView.foundation.js" target="contentFiles\any\any\wwwroot\js"/>
+        <file src="js/cardView.foundation.min.js" target="content\Scripts"/>
+        <file src="js/cardView.foundation.min.js" target="contentFiles\any\any\wwwroot\js"/>
+        <file src="js/cardView.foundation.min.mjs" target="content\Scripts"/>
+        <file src="js/cardView.foundation.min.mjs" target="contentFiles\any\any\wwwroot\js"/>
+        <file src="js/cardView.foundation.mjs" target="content\Scripts"/>
+        <file src="js/cardView.foundation.mjs" target="contentFiles\any\any\wwwroot\js"/>
+        <file src="css/cardView.foundation.css" target="content\Content"/>
+        <file src="css/cardView.foundation.css" target="contentFiles\any\any\wwwroot\css"/>
+        <file src="css/cardView.foundation.min.css" target="content\Content"/>
+        <file src="css/cardView.foundation.min.css" target="contentFiles\any\any\wwwroot\css"/>
+    </files>
+</package>
