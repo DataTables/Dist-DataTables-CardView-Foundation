@@ -5,7 +5,7 @@
     "module": "./js/cardView.foundation.mjs",
     "style": "./css/cardView.foundation.css",
     "types": "./types/cardView.foundation.d.ts",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "files": [
         "js",
         "css",
@@ -21,7 +21,7 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-cardview": "1.1.0",
+        "datatables.net-cardview": "1.1.1",
         "datatables.net-zf": "^3.1"
     },
     "author": {
