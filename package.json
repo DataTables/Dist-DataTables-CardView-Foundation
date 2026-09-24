@@ -34,9 +34,10 @@
     "exports": {
         ".": {
             "types": "./types/cardView.foundation.d.ts",
+            "style": "./css/cardView.foundation.css",
             "import": "./js/cardView.foundation.mjs",
-            "default": "./js/cardView.foundation.mjs",
-            "require": "./js/cardView.foundation.js"
+            "require": "./js/cardView.foundation.js",
+            "default": "./js/cardView.foundation.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
