@@ -1,4 +1,4 @@
-/*! CardView Foundation styling 1.1.1 for DataTables
+/*! CardView Foundation styling 1.1.2 for DataTables
  * Copyright (c) SpryMedia Ltd - https://datatables.net/license/plus
  */
 
